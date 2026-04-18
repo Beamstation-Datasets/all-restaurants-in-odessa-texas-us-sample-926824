@@ -9,9 +9,9 @@
 | Dataset ID | `926824` |
 | Location | Odessa |
 | Category | Restaurants |
-| Full dataset size | 171 records |
-| Free sample size | 17 records (9.94%) |
-| Last export | 2026-04-07T11:40:48.683991+00:00 |
+| Full dataset size | 173 records |
+| Free sample size | 17 records (9.83%) |
+| Last export | 2026-04-14T11:38:19.520896+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-odessa-texas-us-sample-926824/releases/download/sample-latest/beamstation_926824_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
