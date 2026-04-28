@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Local dining market data for Odessa in the Lone Star State with a population of over 114k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Odessa, Texas, US",
-  "export_job_id": "3694dd74-3ac3-4bea-95df-a57a56531c8e",
+  "export_job_id": "24a3d39a-2260-4e26-b750-d7826972d806",
   "github_org": "Beamstation-Datasets",
   "id_short": 926824,
   "location_name": "Odessa",
   "location_type": "city",
   "repo_name": "all-restaurants-in-odessa-texas-us-sample-926824",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/926824/beamstation_926824_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 9.85,
+  "sample_pct": 9.88,
   "sample_records": 33,
-  "sample_sha256": "5a165ee25eb5a913bc9c4987c2def5a34d6d227d5224dc16eee3ae1c928835d6",
-  "sample_size_bytes": 64445,
-  "total_records": 335,
-  "updated_at": "2026-04-21T12:07:14.997210+00:00"
+  "sample_sha256": "5637656ca10039e29e123f2335f25dfd228638dcb841034973f53b9ddda967e1",
+  "sample_size_bytes": 119725,
+  "total_records": 334,
+  "updated_at": "2026-04-28T12:50:05.320602+00:00"
 }
