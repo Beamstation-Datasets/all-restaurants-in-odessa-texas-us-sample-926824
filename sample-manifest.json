@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3694dd74-3ac3-4bea-95df-a57a56531c8e",
+  "export_job_id": "24a3d39a-2260-4e26-b750-d7826972d806",
   "id_short": 926824,
-  "published_at": "2026-04-21T19:59:04Z",
+  "published_at": "2026-04-28T19:59:39Z",
   "repo_name": "all-restaurants-in-odessa-texas-us-sample-926824",
   "sample_asset_name": "beamstation_926824_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/926824/beamstation_926824_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_records": 33,
-  "sample_sha256": "5a165ee25eb5a913bc9c4987c2def5a34d6d227d5224dc16eee3ae1c928835d6",
-  "sample_size_bytes": 64445,
-  "total_records": 335
+  "sample_sha256": "5637656ca10039e29e123f2335f25dfd228638dcb841034973f53b9ddda967e1",
+  "sample_size_bytes": 119725,
+  "total_records": 334
 }
