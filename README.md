@@ -1,6 +1,6 @@
 # All Restaurants in Odessa, Texas, US
 
-> Free BeamStation sample export with 33 rows and masked direct-contact fields.
+> Free BeamStation sample export with 36 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `926824` |
 | Location | Odessa |
 | Category | Restaurants |
-| Full dataset size | 334 records |
-| Free sample size | 33 records (9.88%) |
-| Last export | 2026-04-28T12:50:05.320602+00:00 |
+| Full dataset size | 368 records |
+| Free sample size | 36 records (9.78%) |
+| Last export | 2026-05-05T22:15:36.026160+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-odessa-texas-us-sample-926824/releases/download/sample-latest/beamstation_926824_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
